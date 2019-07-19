@@ -1,0 +1,356 @@
+[INFO][2019-05-17 11:05:27,781| sh.utils.excel.ExcelRead 26]| file = C:\Users\user\Desktop\2019년 1월 연락망.xlsx
+[INFO][2019-05-17 11:05:29,083| sh.utils.excel.ExcelRead 39]| Read Row Data Line = 94
+[INFO][2019-05-17 11:05:29,088| sh.utils.excel.ExcelRead 45]| 2 == TEL : 02-2193-1600(代), 3~5F, Dae-Woong Bldg., 538 Eonju-ro, Gangnam-gu, Seoul, 06147, Korea
+[INFO][2019-05-17 11:05:29,088| sh.utils.excel.ExcelRead 45]| 3 == # 5F
+[INFO][2019-05-17 11:05:29,088| sh.utils.excel.ExcelRead 45]| 4 == 본부
+[INFO][2019-05-17 11:05:29,088| sh.utils.excel.ExcelRead 45]| 5 == 경영관리본부
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 6 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 7 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 8 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 9 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 10 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 11 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 12 == 
+[INFO][2019-05-17 11:05:29,089| sh.utils.excel.ExcelRead 45]| 13 == 
+[INFO][2019-05-17 11:05:29,090| sh.utils.excel.ExcelRead 45]| 14 == # 5F
+[INFO][2019-05-17 11:05:29,090| sh.utils.excel.ExcelRead 45]| 15 == 부서
+[INFO][2019-05-17 11:05:29,091| sh.utils.excel.ExcelRead 45]| 16 == CCO실
+[INFO][2019-05-17 11:05:29,091| sh.utils.excel.ExcelRead 45]| 17 == 마케팅팀
+[INFO][2019-05-17 11:05:29,091| sh.utils.excel.ExcelRead 45]| 18 == 
+[INFO][2019-05-17 11:05:29,091| sh.utils.excel.ExcelRead 45]| 19 == 
+[INFO][2019-05-17 11:05:29,091| sh.utils.excel.ExcelRead 45]| 20 == 
+[INFO][2019-05-17 11:05:29,091| sh.utils.excel.ExcelRead 45]| 21 == # 5F
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 22 == 본부
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 23 == PS사업본부
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 24 == 
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 25 == 
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 26 == 
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 27 == 
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 28 == 
+[INFO][2019-05-17 11:05:29,092| sh.utils.excel.ExcelRead 45]| 29 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 30 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 31 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 32 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 33 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 34 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 35 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 36 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 37 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 38 == 
+[INFO][2019-05-17 11:05:29,093| sh.utils.excel.ExcelRead 45]| 39 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 40 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 41 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 42 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 43 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 44 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 45 == 
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 48 == # 4F
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 49 == 본부
+[INFO][2019-05-17 11:05:29,094| sh.utils.excel.ExcelRead 45]| 50 == 인공지능연구센터
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 51 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 52 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 53 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 54 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 55 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 56 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 57 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 58 == 
+[INFO][2019-05-17 11:05:29,095| sh.utils.excel.ExcelRead 45]| 59 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 60 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 61 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 62 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 63 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 64 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 65 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 66 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 67 == 
+[INFO][2019-05-17 11:05:29,096| sh.utils.excel.ExcelRead 45]| 68 == 
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 69 == 
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 71 == 
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 72 == # 3F
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 73 == 부서
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 74 == CSO실
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 75 == 
+[INFO][2019-05-17 11:05:29,097| sh.utils.excel.ExcelRead 45]| 76 == 신사업개발팀
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 45]| 77 == 
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 45]| 79 == 
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 45]| 82 == ▣ 전화번호는 02-2193-1600 누르고 안내방송시 내선번호(개인별로 부여된 번호) 입니다.
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 45]| 83 == ▣ 출입문 open :  통화중 '00' /  당겨받기 : 전화기의 "당겨받기" 버튼
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 45]| 86 == 
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 45]| 87 == 
+[INFO][2019-05-17 11:05:29,098| sh.utils.excel.ExcelRead 49]| 해당 row cell 데이터 null
+[INFO][2019-05-17 11:06:29,894| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:07:09,979| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:07:31,121| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:18:15,896| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:18:49,864| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:19:12,995| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:28:51,225| sh.utils.excel.ExcelWrite 42]| ====END====
+[INFO][2019-05-17 11:29:13,208| sh.utils.excel.ExcelWrite 43]| ====END====
+[INFO][2019-05-17 11:30:56,807| sh.utils.excel.ExcelWrite 43]| ====END====
+[INFO][2019-05-17 11:32:10,937| sh.utils.excel.ExcelWrite 43]| ====END====
+[INFO][2019-05-17 11:32:30,482| sh.utils.excel.ExcelWrite 43]| ====END====
+[INFO][2019-05-17 11:35:22,634| sh.utils.excel.ExcelWrite 43]| ====END====
+[INFO][2019-05-17 11:37:23,972| sh.utils.excel.ExcelWrite 43]| ====END====
+[INFO][2019-05-17 11:41:39,782| utils.excel.ExcelRead 26]| file = C:\Users\user\Desktop\2019년 1월 연락망.xlsx
+[INFO][2019-05-17 11:41:41,077| utils.excel.ExcelRead 39]| Read Row Data Line = 94
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 2 == TEL : 02-2193-1600(代), 3~5F, Dae-Woong Bldg., 538 Eonju-ro, Gangnam-gu, Seoul, 06147, Korea
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 3 == # 5F
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 4 == 본부
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 5 == 경영관리본부
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 6 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 7 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 8 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 9 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 10 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 11 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 12 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 13 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 14 == # 5F
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 15 == 부서
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 16 == CCO실
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 17 == 마케팅팀
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 18 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 19 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 20 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 21 == # 5F
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 22 == 본부
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 23 == PS사업본부
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 24 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 25 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 26 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 27 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 28 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 29 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 30 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 31 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 32 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 33 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 34 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 35 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 36 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 37 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 38 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 39 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 40 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 41 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 42 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 43 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 44 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 45 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 48 == # 4F
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 49 == 본부
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 50 == 인공지능연구센터
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 51 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 52 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 53 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 54 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 55 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 56 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 57 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 58 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 59 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 60 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 61 == 
+[INFO][2019-05-17 11:41:41,092| utils.excel.ExcelRead 45]| 62 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 63 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 64 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 65 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 66 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 67 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 68 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 69 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 71 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 72 == # 3F
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 73 == 부서
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 74 == CSO실
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 75 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 76 == 신사업개발팀
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 77 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 79 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 82 == ▣ 전화번호는 02-2193-1600 누르고 안내방송시 내선번호(개인별로 부여된 번호) 입니다.
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 83 == ▣ 출입문 open :  통화중 '00' /  당겨받기 : 전화기의 "당겨받기" 버튼
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 86 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 45]| 87 == 
+[INFO][2019-05-17 11:41:41,124| utils.excel.ExcelRead 49]| 해당 row cell 데이터 null
+[INFO][2019-05-17 11:41:55,702| ExcelRead 26]| file = C:\Users\user\Desktop\2019년 1월 연락망.xlsx
+[INFO][2019-05-17 11:41:56,965| ExcelRead 39]| Read Row Data Line = 94
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 2 == TEL : 02-2193-1600(代), 3~5F, Dae-Woong Bldg., 538 Eonju-ro, Gangnam-gu, Seoul, 06147, Korea
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 3 == # 5F
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 4 == 본부
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 5 == 경영관리본부
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 6 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 7 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 8 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 9 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 10 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 11 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 12 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 13 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 14 == # 5F
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 15 == 부서
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 16 == CCO실
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 17 == 마케팅팀
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 18 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 19 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 20 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 21 == # 5F
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 22 == 본부
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 23 == PS사업본부
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 24 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 25 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 26 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 27 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 28 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 29 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 30 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 31 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 32 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 33 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 34 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 35 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 36 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 37 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 38 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 39 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 40 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 41 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 42 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 43 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 44 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 45 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 48 == # 4F
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 49 == 본부
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 50 == 인공지능연구센터
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 51 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 52 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 53 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 54 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 55 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 56 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 57 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 58 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 59 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 60 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 61 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 62 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 63 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 64 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 65 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 66 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 67 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 68 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 69 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 71 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 72 == # 3F
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 73 == 부서
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 74 == CSO실
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 75 == 
+[INFO][2019-05-17 11:41:56,981| ExcelRead 45]| 76 == 신사업개발팀
+[INFO][2019-05-17 11:41:56,996| ExcelRead 45]| 77 == 
+[INFO][2019-05-17 11:41:56,996| ExcelRead 45]| 79 == 
+[INFO][2019-05-17 11:41:56,996| ExcelRead 45]| 82 == ▣ 전화번호는 02-2193-1600 누르고 안내방송시 내선번호(개인별로 부여된 번호) 입니다.
+[INFO][2019-05-17 11:41:56,996| ExcelRead 45]| 83 == ▣ 출입문 open :  통화중 '00' /  당겨받기 : 전화기의 "당겨받기" 버튼
+[INFO][2019-05-17 11:41:56,996| ExcelRead 45]| 86 == 
+[INFO][2019-05-17 11:41:56,996| ExcelRead 45]| 87 == 
+[INFO][2019-05-17 11:41:56,996| ExcelRead 49]| 해당 row cell 데이터 null
+[INFO][2019-05-17 13:49:06,241| sh.utils.xml.CreateXML 53]| =========END=========
+[INFO][2019-05-17 17:09:34,350| sh.utils.regularexprssion.regex 20]| ss222
+ s 
+ 2
+[INFO][2019-05-17 17:09:44,404| sh.utils.regularexprssion.regex 20]| ss222
+ s 
+ 2
+[INFO][2019-05-17 17:09:53,474| sh.utils.regularexprssion.regex 20]| ss222
+ s 
+ 2
+[INFO][2019-05-17 17:10:20,939| sh.utils.regularexprssion.regex 20]| ss222
+ s 
+ 2
+[INFO][2019-05-17 17:10:51,285| sh.utils.regularexprssion.regex 20]| ss222
+ s 
+ 2
+[INFO][2019-05-17 17:11:03,602| sh.utils.regularexprssion.regex 20]| 222
+ s 
+ 2
+[INFO][2019-05-17 17:11:15,058| sh.utils.regularexprssion.regex 20]| 222
+ s 
+ 2
+[INFO][2019-05-17 17:11:26,930| sh.utils.regularexprssion.regex 20]| 222
+ s 
+ 2
+[INFO][2019-05-17 17:11:37,295| sh.utils.regularexprssion.regex 20]| 222
+ s 
+ 2
+[INFO][2019-05-17 17:14:13,808| sh.utils.regularexprssion.regex 20]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:14:13,815| sh.utils.regularexprssion.regex 35]| =30인분 기준
+[INFO][2019-05-17 17:19:07,582| sh.utils.regularexprssion.regex 20]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:19:12,520| sh.utils.regularexprssion.regex 20]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:19:21,944| sh.utils.regularexprssion.regex 41]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:19:21,960| sh.utils.regularexprssion.regex 56]| =30인분 기준
+[INFO][2019-05-17 17:19:34,265| sh.utils.regularexprssion.regex 40]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:19:34,265| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:19:39,975| sh.utils.regularexprssion.regex 40]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:19:39,975| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:20:02,311| sh.utils.regularexprssion.regex 20]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:20:15,387| sh.utils.regularexprssion.regex 20]| sdfsdf30인분 기준
+[INFO][2019-05-17 17:20:15,387| sh.utils.regularexprssion.regex 34]| sdfsdf
+[INFO][2019-05-17 17:20:22,821| sh.utils.regularexprssion.regex 20]| sdfsdf30인분 기준sdfsdf30인분 기준sdfsdf30인분 기준sdfsdf30인분 기준sdfsdf30인분 기준
+[INFO][2019-05-17 17:20:22,821| sh.utils.regularexprssion.regex 34]| sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[INFO][2019-05-17 17:20:22,821| sh.utils.regularexprssion.regex 34]| sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[INFO][2019-05-17 17:20:22,821| sh.utils.regularexprssion.regex 34]| sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[INFO][2019-05-17 17:20:22,821| sh.utils.regularexprssion.regex 34]| sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[INFO][2019-05-17 17:20:22,821| sh.utils.regularexprssion.regex 34]| sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[INFO][2019-05-17 17:20:31,387| sh.utils.regularexprssion.regex 40]| sdfsdf30인분 기준sdfsdf30인분 기준sdfsdf30인분 기준sdfsdf30인분 기준sdfsdf30인분 기준
+[INFO][2019-05-17 17:20:31,387| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:20:31,387| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:20:31,387| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:20:31,387| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:20:31,402| sh.utils.regularexprssion.regex 54]| =30인분 기준
+[INFO][2019-05-17 17:22:22,541| sh.utils.regularexprssion.regex 46]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:22:38,463| sh.utils.regularexprssion.regex 46]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:22:38,463| sh.utils.regularexprssion.regex 61]| 30인분 기준
+[INFO][2019-05-17 17:22:38,463| sh.utils.regularexprssion.regex 61]| 40인분 기준
+[INFO][2019-05-17 17:22:38,463| sh.utils.regularexprssion.regex 61]| 50인분 기준
+[INFO][2019-05-17 17:22:38,463| sh.utils.regularexprssion.regex 61]| 60인분 기준
+[INFO][2019-05-17 17:22:38,463| sh.utils.regularexprssion.regex 61]| 10인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 49]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 64]| 30인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 64]| 40인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 64]| 50인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 64]| 60인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 64]| 10인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 28]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 42]| sdfsdfsdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdfsdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:23:53,090| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdfsdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:23:53,105| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdfsdfsdf10인분 기준
+[INFO][2019-05-17 17:23:53,105| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf
+[INFO][2019-05-17 17:24:51,959| sh.utils.regularexprssion.regex 49]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:24:51,975| sh.utils.regularexprssion.regex 64]| 30인분 기준
+[INFO][2019-05-17 17:24:51,975| sh.utils.regularexprssion.regex 64]| 40인분 기준
+[INFO][2019-05-17 17:24:51,975| sh.utils.regularexprssion.regex 64]| 50인분 기준
+[INFO][2019-05-17 17:24:51,975| sh.utils.regularexprssion.regex 64]| 60인분 기준
+[INFO][2019-05-17 17:24:51,975| sh.utils.regularexprssion.regex 64]| 10인분 기준
+[INFO][2019-05-17 17:24:51,975| sh.utils.regularexprssion.regex 28]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:25:07,455| sh.utils.regularexprssion.regex 42]| sdfsdfsdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:25:09,607| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdfsdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:25:11,386| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdfsdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:25:12,869| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdfsdfsdf10인분 기준
+[INFO][2019-05-17 17:25:15,280| sh.utils.regularexprssion.regex 42]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 51]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 66]| 30인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 66]| 40인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 66]| 50인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 66]| 60인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 66]| 10인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 28]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:25:43,864| sh.utils.regularexprssion.regex 44]| sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[INFO][2019-05-17 17:26:31,490| sh.utils.regularexprssion.regex 51]| sdfsdf30명 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:26:31,490| sh.utils.regularexprssion.regex 66]| 30명
+[INFO][2019-05-17 17:26:31,490| sh.utils.regularexprssion.regex 28]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:26:31,490| sh.utils.regularexprssion.regex 44]| sdfsdf30인분 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:26:41,086| sh.utils.regularexprssion.regex 51]| sdfsdf30명 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:26:41,086| sh.utils.regularexprssion.regex 66]| 30명
+[INFO][2019-05-17 17:26:41,086| sh.utils.regularexprssion.regex 28]| sdfsdf200명 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
+[INFO][2019-05-17 17:26:41,086| sh.utils.regularexprssion.regex 44]| sdfsdf 기준sdfsdf40인분 기준sdfsdf50인분 기준sdfsdf60인분 기준sdfsdf10인분 기준
