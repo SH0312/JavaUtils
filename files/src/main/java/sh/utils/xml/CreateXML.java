@@ -15,6 +15,11 @@ import org.slf4j.LoggerFactory;
 public class CreateXML {
 	private Logger logger = LoggerFactory.getLogger(this.getClass());
 
+	/**
+	 * @Author SH
+	 * @param xml 경로
+	 * @return boolean
+	 */
 	public boolean createXML(String path) {
 		Element rootEle = new Element("DOCUMENT");
 		rootEle.addContent(new Element("TITLE").addContent(new CDATA("title")));

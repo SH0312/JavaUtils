@@ -17,14 +17,14 @@ public class ReadXML {
 	/**
 	 * @Author SH
 	 * @param XMLPath
-	 * @return HashMap
+	 * @return XML 데이터 - HashMap
 	 */
-	public HashMap<String, String> readXML(String path) {
+	public HashMap<String, String> readXML(String XMLPath) {
 		HashMap<String, String> hm = new HashMap<String, String>();
 
 		try {
 			SAXBuilder builder = new SAXBuilder();
-			Document jdomdoc = builder.build(new InputSource(new FileReader(path)));
+			Document jdomdoc = builder.build(new InputSource(new FileReader(XMLPath)));
 			Element root = jdomdoc.getRootElement();
 
 			hm.put("TITLE", root.getChild("TITLE").getValue());

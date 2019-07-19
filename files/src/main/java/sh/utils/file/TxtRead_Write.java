@@ -18,7 +18,7 @@ public class TxtRead_Write {
 	/**
 	 * @ @Author SH
 	 * @param filePath
-	 * @return String
+	 * @return txt 데이터
 	 */
 	public String textRead(String path) {
 		File file = new File(path);

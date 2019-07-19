@@ -16,7 +16,7 @@ public class FileListing {
 	 * @Author SH
 	 * @param path
 	 * @param format
-	 * @return List - String = filePath
+	 * @return 전체 파일 경로 리스트
 	 */
 	public List<String> directoryFileRead(String path, String format) {
 
