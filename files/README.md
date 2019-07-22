@@ -21,3 +21,7 @@
 ### regularexpression
 - resource의 regex_print.txt를 읽어서 졍규퓨현식으로 키워드 추출
 - resource의regex_remove.txt를 읽어서 졍규퓨현식으로 키워드 제거 
+
+
+### RestApi
+- HTTPClient 사용하여 GET, POST방식으로 RESTAPI 호출
