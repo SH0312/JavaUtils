@@ -35,7 +35,11 @@ public class RestApiCall {
 		api.postFormat(postUrl, param);
 
 	}
-
+	/**
+	 * @Author SH
+	 * @param postUrl posturl형식의 url
+	 * @param param post형식에 전달할 데이터(map형식)
+	 */
 	public void postFormat(String postUrl, Map<String, String> param) {
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		HttpPost httpPost = new HttpPost(postUrl);
@@ -61,7 +65,10 @@ public class RestApiCall {
 		}
 
 	}
-
+	/**
+	 * @Author SH
+	 * @param getUrl geturl형식의 url
+	 */
 	public void getFormat(String getUrl) {
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		HttpGet httpGet = new HttpGet(getUrl);
