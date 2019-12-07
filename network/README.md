@@ -1,4 +1,4 @@
-## Network tcp/ip 통신하
+## Network tcp/ip 통신하기
 
 ### Server
  -socket 서버 구현
